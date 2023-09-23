@@ -98,3 +98,4 @@ let TotalValue = number.reduce((accumulator, currentvalue) => {
     return accumulator + currentvalue;
 }, 5);
 console.log(TotalValue.toLocaleString()); // Expected output:26
+//===============================================================================================
